@@ -1,0 +1,15 @@
+C:\Users\jbmcg\source\repos\CS4227Interceptor\CS4227Interceptor\obj\Debug\net6.0\CS4227Interceptor.csproj.AssemblyReference.cache
+C:\Users\jbmcg\source\repos\CS4227Interceptor\CS4227Interceptor\obj\Debug\net6.0\CS4227Interceptor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jbmcg\source\repos\CS4227Interceptor\CS4227Interceptor\obj\Debug\net6.0\CS4227Interceptor.AssemblyInfoInputs.cache
+C:\Users\jbmcg\source\repos\CS4227Interceptor\CS4227Interceptor\obj\Debug\net6.0\CS4227Interceptor.AssemblyInfo.cs
+C:\Users\jbmcg\source\repos\CS4227Interceptor\CS4227Interceptor\obj\Debug\net6.0\CS4227Interceptor.csproj.CoreCompileInputs.cache
+C:\Users\jbmcg\source\repos\CS4227Interceptor\CS4227Interceptor\bin\Debug\net6.0\CS4227Interceptor.exe
+C:\Users\jbmcg\source\repos\CS4227Interceptor\CS4227Interceptor\bin\Debug\net6.0\CS4227Interceptor.deps.json
+C:\Users\jbmcg\source\repos\CS4227Interceptor\CS4227Interceptor\bin\Debug\net6.0\CS4227Interceptor.runtimeconfig.json
+C:\Users\jbmcg\source\repos\CS4227Interceptor\CS4227Interceptor\bin\Debug\net6.0\CS4227Interceptor.dll
+C:\Users\jbmcg\source\repos\CS4227Interceptor\CS4227Interceptor\bin\Debug\net6.0\CS4227Interceptor.pdb
+C:\Users\jbmcg\source\repos\CS4227Interceptor\CS4227Interceptor\obj\Debug\net6.0\CS4227Interceptor.dll
+C:\Users\jbmcg\source\repos\CS4227Interceptor\CS4227Interceptor\obj\Debug\net6.0\refint\CS4227Interceptor.dll
+C:\Users\jbmcg\source\repos\CS4227Interceptor\CS4227Interceptor\obj\Debug\net6.0\CS4227Interceptor.pdb
+C:\Users\jbmcg\source\repos\CS4227Interceptor\CS4227Interceptor\obj\Debug\net6.0\CS4227Interceptor.genruntimeconfig.cache
+C:\Users\jbmcg\source\repos\CS4227Interceptor\CS4227Interceptor\obj\Debug\net6.0\ref\CS4227Interceptor.dll

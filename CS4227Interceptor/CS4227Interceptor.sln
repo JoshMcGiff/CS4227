@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS4227Interceptor", "CS4227Interceptor\CS4227Interceptor.csproj", "{6419337B-28CE-4E06-B9DD-90693ABE6D93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6419337B-28CE-4E06-B9DD-90693ABE6D93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6419337B-28CE-4E06-B9DD-90693ABE6D93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6419337B-28CE-4E06-B9DD-90693ABE6D93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6419337B-28CE-4E06-B9DD-90693ABE6D93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2046377-6555-45D7-A5DA-8FCDC8255585}
+	EndGlobalSection
+EndGlobal
