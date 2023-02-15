@@ -48,7 +48,7 @@ namespace CS4227Interceptor
             notifyObservers();
         }
 
-        public void setMeasurements(float temperature, float humidity, float pressure, Context context)
+        public void setMeasurements(float temperature, float humidity, float pressure)
         {
             this.temperature= temperature;
             this.humidity= humidity;

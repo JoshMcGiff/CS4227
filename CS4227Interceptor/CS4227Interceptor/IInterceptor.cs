@@ -8,6 +8,6 @@ namespace CS4227Interceptor
 {
     internal interface IInterceptor
     {
-        void Intercept(ISubject element, Context context, float temperature, float humidity, float pressure);
+        public void Intercept(ISubject element, Context context);
     }
 }

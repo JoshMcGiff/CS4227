@@ -8,7 +8,7 @@ namespace CS4227Interceptor
 {
     internal interface ISubject
     {
-        public void setMeasurements(float temperature, float humidity, float pressure, Context context);
+        public void setMeasurements(float temperature, float humidity, float pressure);
         public void registerObserver(IObserver o);
         public void unregisterObserver(IObserver o);
 

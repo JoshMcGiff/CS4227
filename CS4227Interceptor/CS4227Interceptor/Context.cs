@@ -12,7 +12,6 @@ namespace CS4227Interceptor
 
         public void Add(string key, object value)
         {
-            Console.WriteLine(value);
             _data.Add(key, value);
         }
 
@@ -20,5 +19,11 @@ namespace CS4227Interceptor
         {
             return _data[key];  
         }
+
+        public void Update(string key, object value)
+        {
+            _data[key] = value;     
+        }
+
     }
 }
