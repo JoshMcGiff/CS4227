@@ -11,6 +11,7 @@ namespace CS4227Interceptor
         private ISubject weatherData;
         private float temperature;
         private float humidity;
+        private float pressure;
         public CurrentConditionsDisplay(ISubject weatherData) { 
             this.weatherData = weatherData;
             weatherData.registerObserver(this);
@@ -19,12 +20,28 @@ namespace CS4227Interceptor
         {
             this.temperature  = temperature;
             this.humidity = humidity;
+            this.pressure = pressure;
             display();
         }
 
         public void display()
         {
             Console.WriteLine("Current conditions: " + temperature + "C degrees and " + humidity + "% humidity");
+        }
+
+        public float GetTemperature()
+        {
+            return temperature;
+        }
+
+        public float GetHumidity()
+        {
+            return humidity;
+        }
+
+        public float GetPressure()
+        {
+            return pressure;
         }
     }
 }
