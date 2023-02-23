@@ -40,6 +40,14 @@ namespace CS4227Interceptor
 
         }
 
+        public void GetTempFahrenheit(float temperature)
+        {
+            Context context = new Context();
+
+            context.Add(TEMPERATURE, temperature);
+            dispatcher.getAvgTempFahrenheit(context);
+        }
+
         public float GetTemperature()
         {
             return currentDisplay.GetTemperature();

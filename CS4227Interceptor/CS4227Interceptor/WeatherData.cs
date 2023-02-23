@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -54,6 +55,11 @@ namespace CS4227Interceptor
             this.humidity= humidity;
             this.pressure= pressure;
             measurementsChanged();
+        }
+
+        public static float CalcAvgTempFahrenheit(float temperature)
+        {
+            return (temperature * 1.8f) + 32;
         }
     }
 }

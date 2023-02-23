@@ -6,5 +6,7 @@ internal class Program
     {
         Framework framework = new Framework();
         framework.SetMeasurements(10,10,10);
+
+        framework.GetTempFahrenheit(25.5f);
     }
 }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CS4227Interceptor
 {
-    internal class CurrentConditionsDisplay : IObserver, IDisplayElement
+    internal class CurrentConditionsDisplay : IObserver
     {
         private ISubject weatherData;
         private float temperature;

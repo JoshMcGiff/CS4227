@@ -65,6 +65,13 @@ namespace CS4227Interceptor
             }
         }
 
+        public void getAvgTempFahrenheit(Context context)
+        {
+            foreach (IInterceptor interceptor in _interceptors)
+            {
+                interceptor.InterceptTemperature(context);
+            }
+        }
 
         public void unregisterObserver(IObserver o)
         {
